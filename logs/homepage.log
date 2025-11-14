@@ -1,0 +1,21 @@
+[2025-11-13T22:13:22.360Z] info: kubernetes.yaml was copied to the config folder
+[2025-11-13T22:13:42.389Z] error: Host validation failed for: dashboard.adnade.tech. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-11-13T22:13:42.909Z] error: Host validation failed for: dashboard.adnade.tech. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-11-13T22:13:42.936Z] error: Host validation failed for: dashboard.adnade.tech. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-11-13T22:13:42.960Z] error: Host validation failed for: dashboard.adnade.tech. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-11-13T22:13:42.982Z] error: Host validation failed for: dashboard.adnade.tech. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-11-13T22:13:43.006Z] error: Host validation failed for: dashboard.adnade.tech. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-11-13T22:13:43.025Z] error: Host validation failed for: dashboard.adnade.tech. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-11-13T22:13:43.052Z] error: Host validation failed for: dashboard.adnade.tech. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-11-13T22:13:43.068Z] error: Host validation failed for: dashboard.adnade.tech. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-11-13T22:13:43.085Z] error: Host validation failed for: dashboard.adnade.tech. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-11-13T22:13:43.096Z] error: Host validation failed for: dashboard.adnade.tech. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-11-13T22:13:43.456Z] error: Host validation failed for: dashboard.adnade.tech. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-11-13T22:13:47.231Z] error: Host validation failed for: dashboard.adnade.tech. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2025-11-13T22:14:37.031Z] info: docker.yaml was copied to the config folder
+[2025-11-13T22:14:37.035Z] info: services.yaml was copied to the config folder
+[2025-11-13T22:14:37.037Z] info: bookmarks.yaml was copied to the config folder
+[2025-11-13T22:14:37.043Z] info: proxmox.yaml was copied to the config folder
+[2025-11-13T22:14:37.081Z] info: widgets.yaml was copied to the config folder
+[2025-11-13T22:14:37.082Z] info: custom.css was copied to the config folder
+[2025-11-13T22:14:37.083Z] info: custom.js was copied to the config folder
