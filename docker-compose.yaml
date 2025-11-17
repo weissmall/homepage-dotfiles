@@ -1,0 +1,18 @@
+services:
+  homepage:
+    image: ghcr.io/gethomepage/homepage:latest
+    container_name: homepage
+    ports:
+      - 3000:3000
+    volumes:
+      - ./:/app/config
+      - ./assets/:/app/public/images
+    environment:
+      HOMEPAGE_ALLOWED_HOSTS: ${HOMEPAGE_ALLOWED_HOSTS}
+      PUID: ${PUID}
+      PGID: ${PGID}
+      HOMEPAGE_VAR_NPM_USER: ${HOMEPAGE_VAR_NPM_USER}
+      HOMEPAGE_VAR_NPM_PASSWORD: ${HOMEPAGE_VAR_NPM_PASSWORD}
+      HOMEPAGE_VAR_NPM_URL: ${HOMEPAGE_VAR_NPM_URL}
+      HOMEPAGE_VAR_VIKUNJA_URL: ${HOMEPAGE_VAR_VIKUNJA_URL}
+      HOMEPAGE_VAR_VIKUNJA_KEY: ${HOMEPAGE_VAR_VIKUNJA_KEY}

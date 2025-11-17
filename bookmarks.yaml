@@ -2,17 +2,38 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/configs/bookmarks
 
-- Developer:
-    - Github:
-        - abbr: GH
-          href: https://github.com/
+- Homelab:
+    - Vikunja:
+        - abbr: PR
+          href: https://vikunja.adnade.tech
+    - NPM Proxy:
+        - abbr: PR
+          href: https://proxy.adnade.tech
+    - Portainer:
+        - abbr: PT
+          href: https://panel.adnade.tech
+    - Uptime Kuma:
+        - abbr: KU
+          href: https://uptime.adnade.tech
 
-- Social:
-    - Reddit:
-        - abbr: RE
-          href: https://reddit.com/
+- Dotfiles:
+    - General:
+        - abbr: GE
+          href: https://github.com/weissmall/dotfiles
+    - Homepage:
+        - abbr: HD
+          href: https://github.com/weissmall/homepage-dotfiles
+    - AGS:
+        - abbr: AG
+          href: https://github.com/weissmall/ags-dotfiles
 
-- Entertainment:
+- Other:
+    - GhatGPT:
+        - abbr: CG
+          href: https://chatgpt.com/
+    - Grok:
+        - abbr: GK
+          href: https://grok.com/
     - YouTube:
         - abbr: YT
           href: https://youtube.com/

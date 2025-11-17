@@ -3,16 +3,17 @@
 # https://gethomepage.dev/configs/services/
 
 - My First Group:
-    - My First Service:
-        href: http://localhost/
-        description: Homepage is awesome
-
-- My Second Group:
-    - My Second Service:
-        href: http://localhost/
-        description: Homepage is the best
-
-- My Third Group:
-    - My Third Service:
-        href: http://localhost/
-        description: Homepage is 😎
+    - Vikunja:
+        href: {{HOMEPAGE_VAR_VIKUNJA_URL}}
+        widget:
+          type: vikunja
+          url: {{HOMEPAGE_VAR_VIKUNJA_URL}}
+          key: {{HOMEPAGE_VAR_VIKUNJA_KEY}}
+          enableTaskList: false
+    - Nginx Proxy Manager:
+        href: {{HOMEPAGE_VAR_NPM_URL}}
+        widget:
+          type: npm
+          url: {{HOMEPAGE_VAR_NPM_URL}}
+          username: {{HOMEPAGE_VAR_NPM_USER}}
+          password: {{HOMEPAGE_VAR_NPM_PASSWORD}}

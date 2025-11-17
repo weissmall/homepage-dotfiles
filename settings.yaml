@@ -2,6 +2,29 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/configs/settings/
 
-providers:
-  openweathermap: openweathermapapikey
-  weatherapi: weatherapiapikey
+# General
+title: AdNade Dashboard
+# favicon: https://www.google.com/favicon.ico
+
+# Style
+headerStyle: clean
+background: 
+  # URL: https://wallhaven.cc/w/e7wvrr
+  image: /images/neon-like-japan.jpg
+  blur: none
+  sarutare: 50
+  brightness: 50
+  opacity: 20
+cardBlur: xl
+theme: dark
+color: slate
+
+# providers:
+#   openweathermap: openweathermapapikey
+#   weatherapi: weatherapiapikey
+
+# Misc
+language: en
+hideVersion: true
+disableUpdateCheck: true
+hideErrors: true
